@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Clarity",
+  "description": "High-efficiency hospital electronic health record (EHR), acute telemetry, ward bed management, medication administration, and clinical decision support system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
